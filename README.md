@@ -2,8 +2,8 @@
 Material Dashboard for Yii2 Framework
 
  ![version](https://img.shields.io/badge/stable-1.0.0-blue.svg) 
- [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/deyraka/yii2-material-dashboard/LICENSE.md)
- [![Total Downloads](https://poser.pugx.org/deyraka/yii2-material-dashboard/d/total.svg)](https://packagist.org/packages/deyraka/yii2-material-dashboard)
+ [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/genny3021/yii2-material-dashboard/LICENSE.md)
+ [![Total Downloads](https://poser.pugx.org/genny3021/yii2-material-dashboard/d/total.svg)](https://packagist.org/packages/genny3021/yii2-material-dashboard)
  
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-html/material-dashboard-free.gif)
@@ -23,7 +23,7 @@ It is based on [Material Dashboard](https://github.com/creativetimofficial/mater
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-composer require deyraka/yii2-material-dashboard:"v1.0.0-beta" 
+composer require genny3021/yii2-material-dashboard:"v1.0.0-beta" 
 ```
 
 or add to your composer.json
@@ -31,7 +31,7 @@ or add to your composer.json
 ```json
 {
 	"require": {
-		"deyraka/yii2-material-dashboard": "v1.0.0-beta"
+		"genny3021/yii2-material-dashboard": "v1.0.0-beta"
 	}
 }
 ```
@@ -44,7 +44,7 @@ Insert the following code inside 'component' section in your 'config/web.php'.
 	...
 	'assetManager' => [ //SETTING FOR MATERIAL DASHBOARD THEME
 		'bundles' => [
-			'deyraka\materialdashboard\web\MaterialDashboardAsset',
+			'genny3021\materialdashboard\web\MaterialDashboardAsset',
 		],
 	],
 	...
@@ -53,7 +53,7 @@ Insert the following code inside 'component' section in your 'config/web.php'.
 
 ## Usage
 
-The preferred way to apply material dashboard theme is replacing your 'layout' and 'site' in 'views' folder by 'layout' and 'site' in '@vendor/deyraka/yii2-material-dashboard/example-views/yiisoft/yii2-app/'.
+The preferred way to apply material dashboard theme is replacing your 'layout' and 'site' in 'views' folder by 'layout' and 'site' in '@vendor/genny3021/yii2-material-dashboard/example-views/yiisoft/yii2-app/'.
 
 Material Dashboard is using material icons by Google, so you can check [Material Icons](https://material.io/resources/icons/?style=baseline) for further information.
 

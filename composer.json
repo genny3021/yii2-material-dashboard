@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "genny3021\\": ""
+            "genny3021\\materialdashboard\\": ""
         }
     }
 }

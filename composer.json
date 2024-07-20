@@ -13,7 +13,7 @@
         "material", "material-design", "material-dashboard", "dashboard",
         "bootstrap", "yii2", "asset-bundle", "asset", "bundle"
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*",
         "mervick/material-design-icons": "~1.0",

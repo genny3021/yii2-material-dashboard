@@ -1,5 +1,5 @@
 # Yii2 Material Dashboard
-Material Dashboard for Yii2 Framework
+Material Dashboard for Yii2 Framework (Bootstrap5)
 
  ![version](https://img.shields.io/badge/stable-1.0.0-blue.svg) 
  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/genny3021/yii2-material-dashboard/LICENSE.md)
@@ -23,7 +23,7 @@ It is based on [Material Dashboard](https://github.com/creativetimofficial/mater
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-composer require genny3021/yii2-material-dashboard:"v1.0.0-beta" 
+composer require genny3021/yii2-material-dashboard:"1.0" 
 ```
 
 or add to your composer.json
@@ -31,7 +31,7 @@ or add to your composer.json
 ```json
 {
 	"require": {
-		"genny3021/yii2-material-dashboard": "v1.0.0-beta"
+		"genny3021/yii2-material-dashboard": "1.0"
 	}
 }
 ```

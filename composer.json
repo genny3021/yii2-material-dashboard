@@ -6,14 +6,14 @@
     "authors": [
         {
             "name": "genny3021",
-            "email": "genosuorji@yahoo.com"
+            "email": "genny3021@yahoo.com"
         }
     ],
     "keywords": [
         "material", "material-design", "material-dashboard", "dashboard",
         "bootstrap", "yii2", "asset-bundle", "asset", "bundle"
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
         "mervick/material-design-icons": "~1.0",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "deyraka\\materialdashboard\\": ""
+            "genny3021\\materialdashboard\\": ""
         }
     }
 }

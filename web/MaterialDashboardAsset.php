@@ -21,7 +21,7 @@ class MaterialDashboardAsset extends BaseMaterialAsset
 
     public $js = [
         'js/core/popper.min.js',
-        'js/core/jquery.min.js',
+        //'js/core/jquery.min.js',
         'js/core/bootstrap-material-design.min.js',
         'js/plugins/arrive.min.js',
         'js/plugins/bootstrap-datetimepicker.min.js',

@@ -1,6 +1,6 @@
 <?php
 
-namespace deyraka\materialdashboard\widgets;
+namespace genny3021\materialdashboard\widgets;
 use Yii;
 
 class Alert extends \yii\bootstrap5\Widget

@@ -5,9 +5,8 @@
  * @link http://adminlte.yiister.ru
  */
 
-namespace deyraka\materialdashboard\widgets;
+namespace genny3021\materialdashboard\widgets;
 
-//use rmrevin\yii\fontawesome\component\Icon;
 use yii\bootstrap5\Widget;
 use yii\helpers\Html;
 use yii\helpers\Url;

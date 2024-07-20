@@ -1,16 +1,16 @@
 <?php
 
-use deyraka\materialdashboard\widgets\Menu;
+use genny3021\materialdashboard\widgets\Menu;
 use yii\helpers\Html;
 
 ?>
-<div class="sidebar" data-color="purple" data-image="../vendor/deyraka-material/yii2-material-dashboard/assets/img/sidebar-2.jpg">
+<div class="sidebar" data-color="purple" data-image="../vendor/genny3021/yii2-material-dashboard/assets/img/sidebar-2.jpg">
     <!--
     Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
     Tip 2: you can also add an image using data-image tag
 -->
     <div class="logo">
-        <a href="../vendor/deyraka-material/yii2-material-dashboard/assets/img/sidebar-1.jpg" class="simple-text logo-normal">
+        <a href="../vendor/genny3021/yii2-material-dashboard/assets/img/sidebar-1.jpg" class="simple-text logo-normal">
             Material Dashboard 
         </a>
     </div>

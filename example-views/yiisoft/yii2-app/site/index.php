@@ -1,11 +1,11 @@
 <?php
 
 /* @var $this yii\web\View */
-use deyraka\materialdashboard\widgets\CardStats;
-use deyraka\materialdashboard\widgets\CardProduct;
-use deyraka\materialdashboard\widgets\CardChart;
-use deyraka\materialdashboard\widgets\Card;
-use deyraka\materialdashboard\widgets\Progress;
+use genny3021\materialdashboard\widgets\CardStats;
+use genny3021\materialdashboard\widgets\CardProduct;
+use genny3021\materialdashboard\widgets\CardChart;
+use genny3021\materialdashboard\widgets\Card;
+use genny3021\materialdashboard\widgets\Progress;
 use yii\helpers\Url;
 
 $this->title = 'Dashboard';
@@ -34,7 +34,7 @@ $this->title = 'Dashboard';
                         'title' => 'Contoh Penggunaan Card Widget 1', 
                         'titleTextType' => Card::TYPE_INFO, 
                         'showFooter' => true,
-                        'footerContent' => 'Palangka Raya, August 13<sup>th</sup> 2019',
+                        'footerContent' => 'Abuja Nigeria, July 20<sup>th</sup> 2024',
                     ])
                 ?>
                 <!-- START your <body> content of the Card below this line  -->
@@ -189,7 +189,7 @@ $this->title = 'Dashboard';
             </div>
         </div>
 
-        <h3>Card Statistik Example</h3>
+        <h3>Card Statistics Example</h3>
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <?=

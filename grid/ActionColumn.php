@@ -1,12 +1,12 @@
 <?php
 
-namespace deyraka\materialdashboard\grid;
+namespace genny3021\materialdashboard\grid;
 
 
 /**
  * ActionColumn
  */
-class ActionColumn extends yii\grid\ActionColumn
+class ActionColumn extends \yii\grid\ActionColumn
 {
     /**
      * @inheritdoc
